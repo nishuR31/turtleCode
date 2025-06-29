@@ -39,7 +39,7 @@ cd turtleCode
 ### ▶️ Run the Script
 
 ```bash
-python turtle_art.py
+python file.py
 ```
 
 ---
